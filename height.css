@@ -1,0 +1,13 @@
+body h2{
+font-size: 5em;
+text-decoration: underline;
+}
+body p{
+    font-size: 1.2em;
+}
+.container{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
